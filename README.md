@@ -1,0 +1,2 @@
+# Django
+its about django
